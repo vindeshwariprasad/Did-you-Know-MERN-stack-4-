@@ -1,1 +1,1 @@
-# Did-you-Know-MERN-stack-4-
+This is a simple yet complete MERN stact project.
